@@ -1,6 +1,6 @@
 ## New Realms Await...
 
-A collection of seamless 2k textures dedicated to Supreme Commander map makers. Strata textures include albedo and purple normal map. Decals are orange normal map.
+A collection of seamless 2k textures dedicated to Supreme Commander map makers. Strata textures include albedo and purple normal map. Decals are green normal map.
 
 ![image](https://github.com/sting-2/new-realms/assets/152813564/72b49aa2-5084-4e63-8b2a-46aaf8c58bf2)
 
